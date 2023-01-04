@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="banner_gf.png">
+  <img src="banner_gf.jpg">
 </p>
 
 # My Portifolio
