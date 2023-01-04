@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-gustavo-orange)](https://www.linkedin.com/in/gustavopfigueiredo) 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gustavo-fig/my_portifolio/issues)
 
 <p align="center">
   <img src="banner_gf.jpg">
