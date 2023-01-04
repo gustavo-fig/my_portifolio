@@ -13,3 +13,7 @@ Welcome to my personal portfolio repository on GitHub! Here, you will find a col
 # Gustavo Figueiredo
 
 **Background in:** Python, Machine Learning, Power BI, Statistics and more.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/gustavopfigueiredo)
+* [Medium](https://www.medium.com)
